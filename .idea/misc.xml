@@ -5,10 +5,14 @@
       <map>
         <entry key="..\:/Programming/andfun-kotlin-sleep-tracker-starter-code/app/src/main/res/drawable/ic_launcher_sleep_tracker_background.xml" value="0.2265" />
         <entry key="..\:/Programming/andfun-kotlin-sleep-tracker-starter-code/app/src/main/res/drawable/ic_launcher_sleep_tracker_foreground.xml" value="0.2265" />
+        <entry key="..\:/Programming/andfun-kotlin-sleep-tracker-starter-code/app/src/main/res/drawable/ic_sleep_active.xml" value="0.1595" />
         <entry key="..\:/Programming/andfun-kotlin-sleep-tracker-starter-code/app/src/main/res/font/roboto.xml" value="0.28020833333333334" />
         <entry key="..\:/Programming/andfun-kotlin-sleep-tracker-starter-code/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Programming/andfun-kotlin-sleep-tracker-starter-code/app/src/main/res/layout/fragment_sleep_quality.xml" value="0.22826086956521738" />
         <entry key="..\:/Programming/andfun-kotlin-sleep-tracker-starter-code/app/src/main/res/layout/fragment_sleep_tracker.xml" value="0.22826086956521738" />
+        <entry key="..\:/Programming/andfun-kotlin-sleep-tracker-starter-code/app/src/main/res/layout/header.xml" value="0.22826086956521738" />
+        <entry key="..\:/Programming/andfun-kotlin-sleep-tracker-starter-code/app/src/main/res/layout/list_item_sleep_night.xml" value="0.22826086956521738" />
+        <entry key="..\:/Programming/andfun-kotlin-sleep-tracker-starter-code/app/src/main/res/layout/text_item_view.xml" value="0.1721311475409836" />
       </map>
     </option>
   </component>
